@@ -1,0 +1,19 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuario": "Vitor Murbach",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuario": "Richard Brosler",
+      "senha": "admin123"
+    },
+    {
+      "id": 3,
+      "usuario": "Rodrigo Faro",
+      "senha": "admin123"
+    }
+  ]
+}
